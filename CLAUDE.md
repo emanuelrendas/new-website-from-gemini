@@ -32,6 +32,7 @@ Fill in once `package.json` exists:
 3. **Client data is confidential.** No real names, phone numbers, emails or property addresses of clients/investors in code, fixtures, commits or logs. Use obviously fake data.
 4. **Off-market means off-market.** Never publish listing details that are marked private or pre-launch without explicit sign-off.
 5. Work on feature branches, small commits, clear messages.
+6. **Direct links, always.** Every time you ask the owner to do something (approve, open a chat, check a page, set a variable, read a report), give the direct clickable link to exactly where it is done: the session URL, the PR, the file on GitHub, the Vercel settings page, the live page. Never make the owner search.
 
 ## Where things live
 
